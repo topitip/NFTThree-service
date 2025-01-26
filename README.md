@@ -75,7 +75,7 @@ Digital Tree NFT is an innovative project that bridges art, blockchain, and sust
 ### Installation server:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/topitip/NFTThree-server
+   git clone https://github.com/topitip/NFTThree-service
    cd NFTThree-server
    ```
 2. Install dependencies:
